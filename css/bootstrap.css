@@ -1441,6 +1441,7 @@ img {
 .img-responsive,
 .thumbnail a > img,
 .thumbnail > img {
+	margin: auto;
 	display: block;
 	max-width: 100%;
 	height: auto;
