@@ -3109,7 +3109,6 @@ input[type="search"] {
 input[type="checkbox"],
 input[type="radio"] {
 	margin: 4px 0 0;
-	margin-top: 1px\9;
 	line-height: normal;
 }
 
@@ -3260,7 +3259,6 @@ input[type="search"] {
 .radio input[type="radio"],
 .radio-inline input[type="radio"] {
 	position: absolute;
-	margin-top: 4px\9;
 	margin-left: -20px;
 }
 
@@ -4296,7 +4294,6 @@ tbody.collapse.in {
 	margin-left: 2px;
 	vertical-align: middle;
 	border-top: 4px dashed;
-	border-top: 4px solid\9;
 	border-right: 4px solid transparent;
 	border-left: 4px solid transparent;
 }
@@ -4432,7 +4429,6 @@ tbody.collapse.in {
 	content: "";
 	border-top: 0;
 	border-bottom: 4px dashed;
-	border-bottom: 4px solid\9;
 }
 
 .dropup .dropdown-menu,
